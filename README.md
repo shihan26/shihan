@@ -1,4 +1,4 @@
 # shihan
 This is my first Repository
 <br>
-Author - Farhan Shihan
+Author - Farhan Shihan(Shadik)
